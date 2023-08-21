@@ -1,0 +1,38 @@
+{
+  "employeeName": "John",
+  "timeSheetEntries": [
+    { "date": "2023-07-15", "hoursWorked": 8 },
+    { "date": "2023-07-16", "hoursWorked": 0 },
+    { "date": "2023-07-17", "hoursWorked": 8 },
+    { "date": "2023-07-18", "hoursWorked": 0 },
+    { "date": "2023-07-19", "hoursWorked": 8 },
+    { "date": "2023-07-20", "hoursWorked": 8 },
+    { "date": "2023-07-21", "hoursWorked": 8 },
+    { "date": "2023-07-22", "hoursWorked": 0 },
+    { "date": "2023-07-23", "hoursWorked": 8 },
+    { "date": "2023-07-24", "hoursWorked": 8 },
+    { "date": "2023-07-25", "hoursWorked": 8 },
+    { "date": "2023-07-26", "hoursWorked": 0 },
+    { "date": "2023-07-27", "hoursWorked": 8 },
+    { "date": "2023-07-28", "hoursWorked": 8 },
+    { "date": "2023-07-29", "hoursWorked": 8 }
+  ],
+  "employeeName": "Scott",
+  "timeSheetEntries": [
+    { "date": "2023-07-15", "hoursWorked": 8 },
+    { "date": "2023-07-16", "hoursWorked": 0 },
+    { "date": "2023-07-17", "hoursWorked": 8 },
+    { "date": "2023-07-18", "hoursWorked": 0 },
+    { "date": "2023-07-19", "hoursWorked": 8 },
+    { "date": "2023-07-20", "hoursWorked": 8 },
+    { "date": "2023-07-21", "hoursWorked": 8 },
+    { "date": "2023-07-22", "hoursWorked": 0 },
+    { "date": "2023-07-23", "hoursWorked": 8 },
+    { "date": "2023-07-24", "hoursWorked": 8 },
+    { "date": "2023-07-25", "hoursWorked": 8 },
+    { "date": "2023-07-26", "hoursWorked": 0 },
+    { "date": "2023-07-27", "hoursWorked": 8 },
+    { "date": "2023-07-28", "hoursWorked": 8 },
+    { "date": "2023-07-29", "hoursWorked": 8 }
+  ]
+}
